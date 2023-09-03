@@ -1,4 +1,4 @@
-package org.campus02.oop;
+package org.campus02.oop.payment;
 
 public class MaestroPayment extends Payment {
 

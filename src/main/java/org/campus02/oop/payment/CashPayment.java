@@ -1,6 +1,4 @@
-package org.campus02.oop;
-
-import java.util.Currency;
+package org.campus02.oop.payment;
 
 public class CashPayment extends Payment {
     private String name;
